@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "id": "personal-native-hide-bullets-test",
+  "name": "Native Hide Bullets Live Test",
+  "author": "Personal customization",
+  "repoUrl": "https://github.com/nprps/remnote-native-hide-bullets",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "description": "Paused by default. Test the native Hide Bullets setting on the current document, with local backup and restore.",
+  "requestNative": false,
+  "enableOnMobile": true,
+  "requiredScopes": [
+    {
+      "type": "Powerup",
+      "powerupCode": "o",
+      "level": "ReadCreateModify"
+    }
+  ]
+}
