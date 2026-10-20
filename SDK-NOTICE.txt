@@ -1,0 +1,8 @@
+Bundled dependency: @remnote/plugin-sdk 0.0.46
+Author: remnote.com
+License declared by the upstream package: ISC
+Source: https://registry.npmjs.org/@remnote/plugin-sdk/-/plugin-sdk-0.0.46.tgz
+npm integrity: sha512-LrHxLeIDFfrpCFgN2+0n/uhGpZU2gQhCBUD2dDCLBR3AsyV0w95KR6flx4woYitJbHCIlVod8ByqCheDua8HsQ==
+
+sdk.js is the package's unmodified standalone dist/lib.js.
+It is included locally so the plugin does not fetch runtime libraries from an external service.

@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "id": "personal-native-hide-bullets",
+  "name": "Native Hide Bullets Everywhere",
+  "author": "Personal customization",
+  "repoUrl": "https://github.com/nprps/remnote-native-hide-bullets",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "description": "Keeps the real native Hide Bullets document setting enabled, preserving RemNote's own layout and interactions. Includes pause and restore commands.",
+  "requestNative": false,
+  "enableOnMobile": true,
+  "requiredScopes": [
+    {
+      "type": "Powerup",
+      "powerupCode": "o",
+      "level": "ReadCreateModify"
+    }
+  ]
+}
